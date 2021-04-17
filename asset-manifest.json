@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MichiFriends/static/css/main.a355235a.chunk.css",
+    "main.js": "/MichiFriends/static/js/main.56de25c5.chunk.js",
+    "main.js.map": "/MichiFriends/static/js/main.56de25c5.chunk.js.map",
+    "runtime-main.js": "/MichiFriends/static/js/runtime-main.6938aaee.js",
+    "runtime-main.js.map": "/MichiFriends/static/js/runtime-main.6938aaee.js.map",
+    "static/css/2.fe359a49.chunk.css": "/MichiFriends/static/css/2.fe359a49.chunk.css",
+    "static/js/2.32bd8b39.chunk.js": "/MichiFriends/static/js/2.32bd8b39.chunk.js",
+    "static/js/2.32bd8b39.chunk.js.map": "/MichiFriends/static/js/2.32bd8b39.chunk.js.map",
+    "static/js/3.0c08296e.chunk.js": "/MichiFriends/static/js/3.0c08296e.chunk.js",
+    "static/js/3.0c08296e.chunk.js.map": "/MichiFriends/static/js/3.0c08296e.chunk.js.map",
+    "index.html": "/MichiFriends/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/MichiFriends/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.a355235a.chunk.css.map": "/MichiFriends/static/css/main.a355235a.chunk.css.map",
+    "static/js/2.32bd8b39.chunk.js.LICENSE.txt": "/MichiFriends/static/js/2.32bd8b39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6938aaee.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.32bd8b39.chunk.js",
+    "static/css/main.a355235a.chunk.css",
+    "static/js/main.56de25c5.chunk.js"
+  ]
+}
